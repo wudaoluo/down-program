@@ -1,5 +1,5 @@
 # down-program
-> 实现 路径是固定的,下载的软件是最新版本
+> 实现 url是固定的,下载的软件是最新版本
 
 ```$xslt
 [root@iZj6~]# ls /data/down/program/sar
